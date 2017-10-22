@@ -2,6 +2,7 @@
 # Personal financial management integrated into Amazon Alexa to provide a streamlined way to access your finances.
 # Inspiration
 Our inspiration stemmed from the fact that we wanted to simplify the user interface between a user and their finances.
+Video demo: https://www.youtube.com/watch?v=lSG6YYKJNlI
 
 # What it does
 Our platform allows users to check their financial status with instantaneous ease through Amazon Echo.
