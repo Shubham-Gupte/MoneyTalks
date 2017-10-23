@@ -15,10 +15,10 @@ def locationVerify():
     if "ft" in distanceBetween:
         distanceBetween = float(distanceBetween.replace(" ft", "")) * 0.000189393939
     distanceBetween = str(distanceBetween).replace(" mi", "")
-    if float(distanceBetween) < 1:
+    if float(distanceBetween) < .5:
         return True
     else:
         return False
 
 if  __name__ =='__main__':
-    locationVerify()
+    print locationVerify()
